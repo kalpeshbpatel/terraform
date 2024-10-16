@@ -9,7 +9,7 @@ Develop a Terraform code live during the interview that sets up an AWS VPC with 
 1. **VPC Configuration:**
 
    - Define a VPC with a CIDR block, for example, `192.168.0.0/16`.
-   - Create one public and one private subnet, each in different availability zones.
+   - Create two public and two private subnet, each in different availability zones.
 
 2. **Required AWS Resources:**
 
